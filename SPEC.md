@@ -2,6 +2,8 @@
 
 Quelle: individuelles Interview mit Lisa Sommer (K2), Meeting 1 mit zwölf Nachrichten und Meeting 2 mit acht Nachrichten, 30.10.2026. N1–N20 bezeichnen die Antworten auf die fortlaufend nummerierten Nachrichten.
 
+**KI-Unterstützung:** ChatGPT wurde zur Formulierung der Interviewfragen sowie zur Strukturierung, Ausarbeitung und Prüfung dieser SPEC.md eingesetzt.
+
 ## Entitäten
 
 IDs, Statusbezeichnungen und die Zusammenfassung ähnlicher Vorgänge sind eigene Modellierungsentscheidungen. Nicht ausdrücklich bestätigte Annahmen sind gekennzeichnet. Die drei Tarife werden als feste Werte mit den Regeln aus BR1 modelliert, nicht als eigene Entität. Auch später umzusetzende Angebote sind berücksichtigt.
